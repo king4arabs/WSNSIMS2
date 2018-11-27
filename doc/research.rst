@@ -1,11 +1,11 @@
 ===============================
 WSNSims Research Project Report
 ===============================
-:Author: Ben Anglin
+:Author: Ben Anglin, Mohammed Alsolami
 :Organization: University of Maryland, Baltimore County
-:Date: December 2016
-:Version: 1.0.0
-:Contact: jama1@umbc.edu
+:Date: December 2016, November 2018
+:Version: 1.0.0, 2.0.0
+:Contact: jama1@umbc.edu, co18293@umbc.edu 
 
 Objective
 =========
