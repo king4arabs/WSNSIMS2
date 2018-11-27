@@ -1,0 +1,6 @@
+ordered-set
+matplotlib
+numpy
+pillow
+pyclustering
+scipy
